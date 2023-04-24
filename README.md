@@ -14,4 +14,4 @@ La méthodologie ressemble beaucoup à l'étude de 2021. Les données sont cepen
 
 Parmi les questions auxquelles ce fichier permet de répondre&nbsp;: quelle est la répartition de la langue des thèses et mémoires par année au Québec?
 
-![](Theses-et-memoires-2000-2022.png)
+![](images/Theses-et-memoires-2000-2022.png)
