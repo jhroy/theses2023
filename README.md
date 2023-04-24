@@ -10,4 +10,4 @@ La méthodologie ressemble beaucoup à l'étude de 2021.
 
 Les données sont cependant beaucoup plus considérables. Je les partage ici dans le fichier suivant:
 
-* [**thesesMemoiresQC2000-2022.csv**](thesesMemoiresQC2000-2022.csv)
+* [**thesesMemoiresQC2000-2022.csv**](https://doi.org/10.5683/SP3/E7MS9S)
