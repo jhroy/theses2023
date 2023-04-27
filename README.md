@@ -4,6 +4,8 @@
 
 Pour le [Forum La science en français, au Québec et dans le monde](https://frq.gouv.qc.ca/evenement/forum-la-science-en-francais-au-quebec-et-dans-le-monde-entre-richesse-et-rayonnement/) (26-27 avril 2023), j'ai présenté une mise à jour d'une étude sur la langue des thèses et mémoires au Québec entre 2000 et 2022.
 
+Vous trouverez dans ce répetoire [un PDF de ma présentation](JHRoy_Langue_theses_memoires.pdf). 
+
 C'est la troisième édition d'une étude que j'ai [réalisée pour la première fois en 2016](https://github.com/jhroy/theses) et que j'ai [mise à jour en 2021](https://github.com/jhroy/theses2021).
 
 La méthodologie ressemble beaucoup à l'étude de 2021. Les données sont cependant beaucoup plus considérables. Elles couvrent plus de 110&nbsp;000 thèses et mémoires publiés au Québec entre 2000 et 2022. Je les partage ici dans le fichier suivant:
